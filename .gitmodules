@@ -4,3 +4,6 @@
 [submodule "who_models_the_world_submission_1161_cscw"]
 	path = who_models_the_world_submission_1161_cscw
 	url = https://github.com/Aliossandro/who_models_the_world_submission_1161_cscw.git
+[submodule "WD-group_diversity"]
+	path = WD-group_diversity
+	url = https://github.com/Aliossandro/WD-group_diversity
