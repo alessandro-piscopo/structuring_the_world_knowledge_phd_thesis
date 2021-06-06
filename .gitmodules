@@ -1,3 +1,6 @@
 [submodule "WD_references_analysis"]
 	path = WD_references_analysis
 	url = https://github.com/Aliossandro/WD_references_analysis
+[submodule "who_models_the_world_submission_1161_cscw"]
+	path = who_models_the_world_submission_1161_cscw
+	url = https://github.com/Aliossandro/who_models_the_world_submission_1161_cscw.git
